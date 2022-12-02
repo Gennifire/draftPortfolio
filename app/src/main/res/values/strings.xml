@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gen\\s Draft Portfolio</string>
+    <string name="enter">Enter</string>
+    <string name="welcomeMessage">Gen\'s Portfolio Page</string>
+    <string name="compIcon">compIcon</string>
+    <string name="menuIcon">menuIcon</string>
+</resources>
