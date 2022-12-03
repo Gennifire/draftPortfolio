@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Gen\\s Draft Portfolio</string>
+    <string name="app_name">Gen\'s Draft Portfolio</string>
     <string name="enter">Enter</string>
     <string name="welcomeMessage">Gen\'s Portfolio Project</string>
     <string name="compIcon">compIcon</string>
@@ -16,4 +16,7 @@
     <string name="project5">TODO</string>
     <string name="project4">TODO</string>
     <string name="project3">TODO</string>
+    <string name="gitHub">Git Hub</string>
+    <string name="linkedIn">Linkedin</string>
+    <string name="email">Email</string>
 </resources>
