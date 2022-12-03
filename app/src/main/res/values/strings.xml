@@ -6,4 +6,14 @@
     <string name="menuIcon">menuIcon</string>
     <string name="next_page">Next Page</string>
     <string name="second_page">Second Page</string>
+    <string name="about">About</string>
+    <string name="contact">Contact</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="project1">TODO</string>
+    <string name="project2">TODO</string>
+    <string name="project6">project 6</string>
+    <string name="project">TODO</string>
+    <string name="project5">TODO</string>
+    <string name="project4">TODO</string>
+    <string name="project3">TODO</string>
 </resources>
