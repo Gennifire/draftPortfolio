@@ -1,7 +1,9 @@
 <resources>
     <string name="app_name">Gen\\s Draft Portfolio</string>
     <string name="enter">Enter</string>
-    <string name="welcomeMessage">Gen\'s Portfolio Page</string>
+    <string name="welcomeMessage">Gen\'s Portfolio Project</string>
     <string name="compIcon">compIcon</string>
     <string name="menuIcon">menuIcon</string>
+    <string name="next_page">Next Page</string>
+    <string name="second_page">Second Page</string>
 </resources>
