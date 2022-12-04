@@ -13,11 +13,14 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        //button click event listener from main page
+        //button click event finds button on main page
         val btnClick = findViewById<Button>(R.id.button)
         btnClick.setOnClickListener {
-            //toast
+
+            //toast = pop up to show button clicked
             Toast.makeText(this, "Button Clicked", Toast.LENGTH_SHORT ).show()
+
+            //intent
             val nextPage = Intent(this, MainMenu::class.java)
             startActivity(nextPage)
 
