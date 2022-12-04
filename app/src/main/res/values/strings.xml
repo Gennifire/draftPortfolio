@@ -19,4 +19,16 @@
     <string name="gitHub">Git Hub</string>
     <string name="linkedIn">Linkedin</string>
     <string name="email">Email</string>
+    <string name="message">Message</string>
+    <string name="subject">Subject</string>
+    <string name="recipient">Recipient</string>
+    <string name="emailBody" />
+    <string name="subjectBody" />
+    <string name="btnSendemail">Send Email</string>
+    <string name="recipientBody" />
+    <string name="send_email">Send Email</string>
+    <string name="write_your_message_here">Write your message here</string>
+    <string name="enter_your_subject_here">Enter your Subject here</string>
+    <string name="enter_recipient_email_address">Enter Recipient Email Address</string>
+    <string name="send_me_an_email">Send Me An Email</string>
 </resources>
