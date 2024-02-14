@@ -19,6 +19,11 @@ Project Portfolio Page
 - ![portfolioPage](https://user-images.githubusercontent.com/72698786/205440446-5abe83be-10a6-4fc0-ae31-5b16cd6ea611.png)
 
 
+Single Project Page
+ - <img width="230" alt="Screenshot 2024-02-14 111403" src="https://github.com/Gennifire/draftPortfolio/assets/72698786/b5ee59c9-5083-4bbd-bc75-2241f35775f3">
+
+
+
 
 Menu & Contact pages
 - ![menu contact](https://user-images.githubusercontent.com/72698786/205440550-d4ecf37a-b318-4ec6-9409-958a1c870ed0.png)
