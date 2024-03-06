@@ -29,3 +29,8 @@ Menu & Contact pages
 - ![menu contact](https://user-images.githubusercontent.com/72698786/205440550-d4ecf37a-b318-4ec6-9409-958a1c870ed0.png)
 
 
+To be added
+ - links to individual projects
+ - correct about page
+ - some css manipulation to show off :)
+
